@@ -4,3 +4,7 @@ void main(){
 print({informtion['name']});
 print({informtion['age']});
 }
+
+//output:
+//arshiyan
+//19
